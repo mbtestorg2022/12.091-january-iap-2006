@@ -40,7 +40,7 @@ Selection of Elements for Report and Presentation
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 3.1 MB]({{< baseurl >}}/resources/session1))
+([PDF ‑ 3.1 MB]({{< baseurl >}}/resources/session1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,13 +62,13 @@ Radon
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/session2a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 1.8 MB]({{< baseurl >}}/resources/session2b))
+([PDF 1]({{< baseurl >}}/resources/session2a)) ([PDF 2 ‑ 1.8 MB]({{< baseurl >}}/resources/session2b))
 
 TENORM Sources ([PDF]({{< baseurl >}}/resources/tenorm_sources))
 
 TENORM Sources Table ([PDF]({{< baseurl >}}/resources/tenorm_sourc_tab))
 
-TENORM Summary (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/tenorm_summary))
+TENORM Summary ([PDF]({{< baseurl >}}/resources/tenorm_summary))
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ MIT-EAPS Neutron Activation Analysis Laboratory - Hands on Experience
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 1.5 MB]({{< baseurl >}}/resources/session3))
+([PDF ‑ 1.5 MB]({{< baseurl >}}/resources/session3))
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ Student Presentations
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 4.5 MB]({{< baseurl >}}/resources/session5))
+([PDF ‑ 4.5 MB]({{< baseurl >}}/resources/session5))
 
 
 {{< tdclose >}}
