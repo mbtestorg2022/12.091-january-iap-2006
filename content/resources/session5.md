@@ -4,6 +4,7 @@ description: This resource include notes on Dust Storms - Health Effects. Also i
   Review and Conclusions, and Student Presentations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/7278735d2ae469e3421222bdb09f5edd_session5.pdf
 file_type: application/pdf
+parent_uid: d53595ce-430f-93b3-3732-b924d4c05eb8
 resourcetype: Document
 title: session5.pdf
 uid: 7278735d-2ae4-69e3-4212-22bdb09f5edd

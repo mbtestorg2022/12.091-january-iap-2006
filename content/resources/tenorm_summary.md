@@ -3,6 +3,7 @@ content_type: resource
 description: This resource include summary of Tenorm.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/2960b3e7b3ab7fc1dc4315056e7a8e19_tenorm_summary.pdf
 file_type: application/pdf
+parent_uid: d53595ce-430f-93b3-3732-b924d4c05eb8
 resourcetype: Document
 title: tenorm_summary.pdf
 uid: 2960b3e7-b3ab-7fc1-dc43-15056e7a8e19
